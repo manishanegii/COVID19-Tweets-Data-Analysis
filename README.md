@@ -3,3 +3,6 @@ The dataset for this project has been downloaded from Kaggle Dataset. The datase
 
 # Dataset used in this project :
 https://drive.google.com/file/d/1K6PBTVz4HeYDqnoBtIUysEymahJ61hjz/view?usp=sharing
+
+# Jupyter Notebook link :
+https://jovian.ml/maneesha-negi-2000/covid19-tweets-data-analysis
